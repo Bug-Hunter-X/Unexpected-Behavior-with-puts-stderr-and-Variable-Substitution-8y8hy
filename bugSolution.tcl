@@ -1,0 +1,1 @@
+proc goodproc {a b} { puts stderr [subst "$a $b"] ; return }
